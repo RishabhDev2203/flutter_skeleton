@@ -1,0 +1,22 @@
+{
+  "next" : "Next",
+  "email": "Email",
+  "name": "Name",
+  "login":"Login",
+  "forgotPassword": "Forgot Password",
+  "rememberMe":"Remember Me",
+  "emailHint": "Email Address",
+  "password": "Password",
+  "dontAcc":"Don’t have an account? ",
+  "signUp":"Sign Up",
+  "continue": "Continue",
+  "home": "Home",
+  "createNewPassword": "Create New Password",
+  "createNewPasswordText":"Create your secured 8 digit password",
+  "confirmPasswordHint": "Confirm Password",
+  "submit": "Submit",
+  "firstName": "First Name",
+  "lastName": "Last Name",
+  "phoneHint": "Phone No.",
+  "alreadyHaveAccount":"Already have an account? "
+}
